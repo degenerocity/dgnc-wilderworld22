@@ -67,5 +67,5 @@ export default {
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
   footerText: <>Created in {new Date().getFullYear()} © Degenerocity </>,
-  unstable_faviconGlyph: '🔫',
+  unstable_faviconGlyph: '(📜,📜)',
 }
