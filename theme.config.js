@@ -23,10 +23,10 @@ export default {
       <meta name="description" content="Degen Docs: Degen reference guide 2.0" />
       <meta name="og:description" content="Degen Docs: Degen reference guide 2.0" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Degen Docs: Degen reference guide 2.0" />
+      <meta name="twitter:image" content="https://wilderworld.degenerocity.io/og.png" />
+      <meta name="twitter:site:domain" content="https://wilderworld.degenerocity.io/" />
+      <meta name="twitter:url" content="https://twitter.com/degenerocity_io/" />
+      <meta name="og:title" content="Degen Docs: Reference Guide 3.0" />
       <meta name="og:image" content="https://wilderworld.degenerocity.io/og.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link
