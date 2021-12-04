@@ -10,7 +10,7 @@ export default {
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Project Docs</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        Degen reference guide 2.0
+        Degen reference guide 3.0
       </span>
     </>
   ),
@@ -20,8 +20,8 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Degen Docs: Degen reference guide 2.0" />
-      <meta name="og:description" content="Degen Docs: Degen reference guide 2.0" />
+      <meta name="description" content="Degen Docs: Degen reference guide 3.0" />
+      <meta name="og:description" content="Degen Docs: Degen reference guide 3.0" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://wilderworld.degenerocity.io/og.png" />
       <meta name="twitter:site:domain" content="https://wilderworld.degenerocity.io/" />
